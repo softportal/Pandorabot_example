@@ -27,11 +27,12 @@
         Tenemos un mapa que nos emparejará nuestro sets de jugadores con equipos.
 
 
-#### Estadisticas:
+### Estadisticas:
+[Stats](https://github.com/softportal/Pandorabot_example/blob/master/staistics.png?raw=true)
 
 
 
-#### Ejemplo Interacción:
+### Ejemplo Interacción:
 
 
 
