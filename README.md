@@ -1,0 +1,2 @@
+# Pandorabot_example
+(Spanish)
