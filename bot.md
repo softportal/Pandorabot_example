@@ -28,11 +28,14 @@
 
 
 ### Estadisticas:
-[Stats](https://github.com/softportal/Pandorabot_example/blob/master/staistics.png?raw=true)
+![Stats](https://github.com/softportal/Pandorabot_example/blob/master/staistics.png?raw=true)
 
 
 
 ### Ejemplo Interacción:
+![Conver00](https://github.com/softportal/Pandorabot_example/blob/master/conver_0.png?raw=true)
+![Conver01](https://github.com/softportal/Pandorabot_example/blob/master/conver_1.png?raw=true)
+![Conver02](https://github.com/softportal/Pandorabot_example/blob/master/conver_2.png?raw=true)
 
 
 
